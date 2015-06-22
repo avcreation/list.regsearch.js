@@ -1,0 +1,25 @@
+{
+  "name": "list.regsearch.js",
+  "main": "dist/list.regsearch.js",
+  "version": "0.1.1",
+  "authors": [
+    "Alexandre Voiney <bonjour@alexandre.voiney.fr>"
+  ],
+  "description": "A Regular Expression Search plugin for List.js",
+  "keywords": [
+    "regexp",
+    "search",
+    "list.js",
+    "list"
+  ],
+  "license": "MIT",
+  "homepage": "http://listjs.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ]
+}
